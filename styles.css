@@ -10,12 +10,19 @@ body {
 }
 
 .header {
-  background-color: rgb(236, 236, 236);
+  background-color: rgb(90, 90, 89);
   height: 55.6rem;
+  background-image: url(./images/Full-Stack-with-JavaScript-for-Creating-Futuristic-Web-Applications.png);
+  background-size: cover;
+  background-blend-mode: multiply;
 }
 
 .aboutme {
   background-color: rgb(216, 92, 9);
+  background-image: url(./images/header.JPG);
+  background-size: cover;
+  background-blend-mode: multiply;
+
   height: 58.6rem;
 }
 .portfolio {
@@ -24,6 +31,9 @@ body {
 }
 .skills {
   background-color: rgb(22, 187, 199);
+  background-image: url(./images/full.png);
+  background-size: cover;
+  background-blend-mode: multiply;
   height: 58.6rem;
 }
 .contact {
@@ -38,12 +48,16 @@ body {
   width: 25rem;
   height: 25rem;
   border-radius: 4rem 4rem;
-  margin: 8rem 25rem;
+  margin: 8rem 19rem;
   border: 2px rgb(156, 156, 156) solid;
   display: flex;
 }
 .name {
   padding-top: 15rem;
+  color: #fff;
+}
+.name h2 {
+  color: aquamarine;
 }
 
 .navbar {
@@ -61,12 +75,8 @@ body {
   background-color: orange;
   color: #fff;
   padding: 1rem;
-  margin-top: -2rem;
-  padding-left: 4rem;
-  padding-top: 2.5rem;
-  height: 8rem;
+  height: 5rem;
   width: 20rem;
-  border-radius: 23px 20px;
 }
 .nav1 i {
   width: 40px;
@@ -75,30 +85,20 @@ body {
 .nav2 {
   background-color: rgb(63, 197, 30);
   padding: 1rem;
-  margin-top: -2rem;
-  height: rem;
-  width: 30rem;
-  z-index: 6;
-  border-radius: 23px 20px;
+  height: 5rem;
+  width: 20rem;
 }
 .nav3 {
   background-color: rgb(13, 179, 190);
   padding: 1rem;
-  margin-top: -2rem;
-  height: 10rem;
-  width: 28rem;
-  z-index: 3;
-  border-radius: 23px 20px;
+  height: 5rem;
+  width: 20rem;
 }
 .nav4 {
   background-color: rgb(189, 8, 48);
   padding: 1rem;
-  margin-top: -2rem;
-  height: 7rem;
+  height: 5rem;
   width: 20rem;
-  border-radius: 23px 20px;
-  z-index: 1;
-  left: 3rem;
 }
 
 .navbar a {
