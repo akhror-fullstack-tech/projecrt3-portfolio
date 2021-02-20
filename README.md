@@ -20,3 +20,11 @@
     
  ### Body part of my Portfolio Website
         lorem30
+
+### UI of my website
+
+        lfdgkvrdk;l gd klgmk fskm;mgfk;ld
+        
+### Navigation bar of my website 
+
+        kfmklefler dsmf kemfklermlkel rmktm
