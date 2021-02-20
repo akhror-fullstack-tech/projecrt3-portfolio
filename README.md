@@ -1,4 +1,4 @@
-# projecrt3-portfolio
+# project- 2
 
 ### PORTFOLIO WEBSITE GOALS
 
@@ -9,3 +9,22 @@
 ➔ A wireframe for each webpage.<br>
 ➔ Text content for your webpages.<br>
 ➔ Resume as a PDF file.<br>
+
+
+### My portfolio website Introduction
+
+    As any developer has a personal portfolio website, I also have own website 
+    
+    
+    
+    
+ ### Body part of my Portfolio Website
+        lorem30
+
+### UI of my website
+
+        lfdgkvrdk;l gd klgmk fskm;mgfk;ld
+        
+### Navigation bar of my website 
+
+        kfmklefler dsmf kemfklermlkel rmktm
