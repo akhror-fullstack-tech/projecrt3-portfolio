@@ -29,10 +29,81 @@ body {
   box-shadow: 5px 5px 10px #888888;
   height: 58.6rem;
 }
+
+/* my portfolio */
+
 .portfolio {
   background-color: rgb(58, 184, 96);
   height: 58.6rem;
+  text-align: center;
 }
+.portfolio h1 {
+  padding-top: 3rem;
+  color: #ffffff;
+  text-shadow: 5px 5px 11px #004211;
+}
+.projects {
+  margin-left: 8rem;
+
+  padding: 2rem;
+  display: block;
+}
+.projects1 {
+  display: flex;
+}
+.projects2 {
+  display: flex;
+}
+.projects .project1 {
+  background-color: rgb(16, 126, 190);
+  width: 20rem;
+  height: 20rem;
+  margin: 2rem;
+}
+.projects .project2 {
+  background-color: rgb(190, 16, 138);
+  width: 20rem;
+  height: 20rem;
+  margin: 2rem;
+  display: flex;
+}
+.projects .project3 {
+  background-color: rgb(190, 129, 16);
+  width: 20rem;
+  height: 20rem;
+  margin: 2rem;
+}
+.projects .project4 {
+  background-color: rgb(219, 235, 81);
+  width: 20rem;
+  height: 20rem;
+  margin: 2rem;
+}
+.projects .project5 {
+  background-color: rgb(16, 106, 190);
+  width: 20rem;
+  height: 20rem;
+  margin: 2rem;
+}
+.projects .project6 {
+  background-color: rgb(149, 16, 190);
+  width: 20rem;
+  height: 20rem;
+  margin: 2rem;
+}
+.projects .project7 {
+  background-color: rgb(16, 170, 190);
+  width: 20rem;
+  height: 20rem;
+  margin: 2rem;
+}
+.projects .project8 {
+  background-color: rgb(190, 16, 161);
+  width: 20rem;
+  height: 20rem;
+  margin: 2rem;
+}
+/* my skills */
 .skills {
   background-color: rgb(22, 187, 199);
   background-image: url(./images/full.png);
@@ -56,13 +127,19 @@ body {
   width: 25rem;
   height: 25rem;
   border-radius: 4rem 4rem;
-  margin: 8rem 19rem;
+  margin-top: 8rem;
+  margin-left: 14rem;
+  margin-right: 12rem;
   border: 2px rgb(156, 156, 156) solid;
   display: flex;
 }
 .name {
   padding-top: 15rem;
   color: #fff;
+  letter-spacing: 5px;
+}
+.name h1 {
+  font-size: 4rem;
 }
 .name h2 {
   color: aquamarine;
@@ -71,8 +148,10 @@ body {
 .navbar {
   padding: 0rem 4rem;
   display: flex;
-  margin: 2rem;
-  background-color: #fff;
+  margin: 2rem 14rem;
+  /* background-color: rgb(245, 73, 73); */
+  text-align: center;
+  align-items: center;
 }
 
 .navbar div {
@@ -114,4 +193,16 @@ body {
   color: #fff;
   font-size: 2rem;
   text-align: center;
+}
+
+.footer {
+  text-align: center;
+}
+.footer .social {
+  margin: 30px 0px;
+  /* margin-left: 6rem; */
+}
+
+.social a {
+  padding: 2rem;
 }
