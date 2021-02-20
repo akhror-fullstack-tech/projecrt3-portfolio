@@ -7,6 +7,8 @@
 body {
   font-size: 24px;
   height: 300rem;
+  font-family: "Akaya Kanadaka", cursive;
+  font-family: "Arvo", serif;
 }
 
 .header {
@@ -19,10 +21,12 @@ body {
 
 .aboutme {
   background-color: rgb(216, 92, 9);
-  background-image: url(./images/header.JPG);
+  background-image: url(./images/7.JPG);
   background-size: cover;
   background-blend-mode: multiply;
-
+  margin: 3rem 3rem;
+  border-radius: 0rem 20rem;
+  box-shadow: 5px 5px 10px #888888;
   height: 58.6rem;
 }
 .portfolio {
@@ -35,6 +39,10 @@ body {
   background-size: cover;
   background-blend-mode: multiply;
   height: 58.6rem;
+  box-shadow: 5px 5px 10px #888888;
+
+  margin: 3rem 3rem;
+  border-radius: 20rem 0rem;
 }
 .contact {
   background-color: rgb(216, 9, 130);
