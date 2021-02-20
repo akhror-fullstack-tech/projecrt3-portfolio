@@ -30,6 +30,9 @@ body {
   background-color: rgb(216, 9, 130);
   height: 58.6rem;
 }
+.my-images {
+  display: flex;
+}
 
 .my-images img {
   width: 25rem;
@@ -37,6 +40,10 @@ body {
   border-radius: 4rem 4rem;
   margin: 8rem 25rem;
   border: 2px rgb(156, 156, 156) solid;
+  display: flex;
+}
+.name {
+  padding-top: 15rem;
 }
 
 .navbar {
@@ -47,17 +54,23 @@ body {
 }
 
 .navbar div {
-  padding-left: 3rem;
   /* margin: 1rem 4rem; */
 }
 
 .nav1 {
   background-color: orange;
+  color: #fff;
   padding: 1rem;
   margin-top: -2rem;
+  padding-left: 4rem;
+  padding-top: 2.5rem;
   height: 8rem;
   width: 20rem;
   border-radius: 23px 20px;
+}
+.nav1 i {
+  width: 40px;
+  height: 40px;
 }
 .nav2 {
   background-color: rgb(63, 197, 30);
